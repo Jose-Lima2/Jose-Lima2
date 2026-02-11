@@ -1,30 +1,39 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6d28d9&size=28&center=true&vCenter=true&width=1000&lines=José+Lima;Desenvolvedor+Full+Stack;Sistemas+Web+e+SaaS;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6d28d9&size=28&center=true&vCenter=true&width=1000&lines=José+Lima;Desenvolvedor+Full+Stack;Direito+e+Tecnologia;Sistemas+Web+e+SaaS;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor focado em **sistemas web, SaaS e automações**.  
-Atualmente estudo:
+Sou desenvolvedor focado em **sistemas web, SaaS e soluções para empresas e setor público**.  
+Tenho perfil híbrido entre **tecnologia e área jurídica**, o que me permite desenvolver sistemas com visão real de uso institucional.
 
-- 🎓 Engenharia de Software — Uniasselvi  
-- 🌐 Redes de Computadores — Gran  
-- ⚖️ Direito - Unisulma
+### 🎓 Formação
 
-Tenho foco em construir sistemas **reais para empresas e prefeituras**, com visão de produto e monetização.
+- Engenharia de Software — Uniasselvi  
+- Redes de Computadores — Gran  
+- Direito — em formação  
+
+Interesse forte em:
+
+- sistemas para prefeituras  
+- sistemas jurídicos  
+- automações administrativas  
+- produtos SaaS  
+- tecnologia aplicada ao setor público  
 
 ---
 
 ## 🚀 O que eu construo
 
-- Sistemas web completos (CRUD, autenticação, dashboards)
-- SaaS com cobrança recorrente
+- Sistemas web completos
 - Sistemas para gestão pública
+- SaaS com cobrança recorrente
+- Painéis administrativos
 - APIs e integrações
 - Automações com n8n
-- Painéis administrativos
+- Sistemas jurídicos e administrativos
 
 ---
 
@@ -34,6 +43,24 @@ Tenho foco em construir sistemas **reais para empresas e prefeituras**, com vis�
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jose-Lima2&show_icons=true&count_private=true&hide_border=true&title_color=6d28d9&icon_color=6d28d9&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Lima2&layout=compact&hide_border=true&title_color=6d28d9&text_color=6d28d9&bg_color=0d1117" />
 </div>
+
+---
+
+## 📈 Atividade recente
+
+<div align="center">
+
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Lima2&bg_color=000000&color=6d28d9&line=6d28d9&point=6d28d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+💡 Sempre trabalhando em:
+
+- novos sistemas  
+- melhorias de código  
+- testes de funcionalidades  
+- estudos práticos  
+- projetos reais para clientes  
 
 ---
 
@@ -63,12 +90,6 @@ Tenho foco em construir sistemas **reais para empresas e prefeituras**, com vis�
 
 ---
 
-## 📈 Atividade
-
-[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jose-Lima2&bg_color=000000&color=6d28d9&line=6d28d9&point=6d28d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🏆 Conquistas
 
 <p align="center">
@@ -93,9 +114,9 @@ Tenho foco em construir sistemas **reais para empresas e prefeituras**, com vis�
 
 ---
 
-## 💡 Frase profissional
+## 💡 Posicionamento
 
-> Construindo sistemas reais para problemas reais.
+> Desenvolvedor focado em sistemas reais, com visão técnica e jurídica.
 
 ---
 
@@ -104,4 +125,3 @@ Tenho foco em construir sistemas **reais para empresas e prefeituras**, com vis�
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer"/>
-
